@@ -1,0 +1,142 @@
+[
+    {
+      "id": 1,
+      "date": "2024-01-02",
+      "stadium": "Tanger",
+      "time": "15:00",
+      "team1": {
+        "name": "Morocco",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/255px-Flag_of_Morocco.svg.png"
+      },
+      "team2": {
+        "name": "Croatia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/255px-Flag_of_Croatia.svg.png"
+      }
+    },
+    {
+      "id": 2,
+      "date": "2024-01-02",
+      "stadium": "Rabat",
+      "time": "18:00",
+      "team1": {
+        "name": "Spain",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/750px-Flag_of_Spain.svg.png"
+      },
+      "team2": {
+        "name": "Japan",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/750px-Flag_of_Spain.svg.png"
+      }
+    },
+    {
+      "id": 3,
+      "date": "2024-01-03",
+      "stadium": "Tetouan",
+      "time": "10:30",
+      "team1": {
+        "name": "Portugal",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png"
+      },
+      "team2": {
+        "name": "Ghana",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/2560px-Flag_of_Ghana.svg.png"
+      }
+    },
+    {
+        "id": 4,
+        "date": "2024-01-03",
+        "stadium": "Nador",
+        "time": "16:30",
+        "team1": {
+          "name": "Argentina",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/langfr-225px-Flag_of_Argentina.svg.png"
+        },
+        "team2": {
+          "name": "Mexico",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/255px-Flag_of_Mexico.svg.png"
+        }
+    },
+    {
+        "id": 5,
+        "date": "2024-01-04",
+        "stadium": "Marrakech",
+        "time": "12:00",
+        "team1": {
+          "name": "England",
+          "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/255px-Flag_of_England.svg.png"
+        },
+        "team2": {
+          "name": "Iran",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/255px-Flag_of_Iran.svg.png"
+        }
+    },
+    {
+        "id": 6,
+        "date": "2024-01-04",
+        "stadium": "Casablanca",
+        "time": "18:30",
+        "team1": {
+          "name": "Senegal",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/langfr-225px-Flag_of_Senegal.svg.png"
+        },
+        "team2": {
+          "name": "Ecuador",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/255px-Flag_of_Ecuador.svg.png"
+        }
+    },
+    {
+        "id": 7,
+        "date": "2024-01-05",
+        "stadium": "El Jadida",
+        "time": "09:30",
+        "team1": {
+          "name": "France",
+          "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/255px-Flag_of_France.svg.png"
+        },
+        "team2": {
+          "name": "Tunisia",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/langfr-225px-Flag_of_Tunisia.svg.png"
+        }
+    },
+    {
+        "id": 8,
+        "date": "2024-01-05",
+        "stadium": "Agadir",
+        "time": "20:30",
+        "team1": {
+          "name": "Brazil",
+          "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/243px-Flag_of_Brazil.svg.png"
+        },
+        "team2": {
+          "name": "Cameroon",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/255px-Flag_of_Cameroon.svg.png"
+        }
+    },{
+        "id": 9,
+        "date": "2024-01-06",
+        "stadium": "Oujda",
+        "time": "10:30",
+        "team1": {
+          "name": "Canada",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/255px-Flag_of_Canada_%28Pantone%29.svg.png"
+        },
+        "team2": {
+          "name": "Belgium",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/196px-Flag_of_Belgium.svg.png"
+        }
+    },
+    {
+        "id": 10,
+        "date": "2024-01-06",
+        "stadium": "Ouarzazate",
+        "time": "17:15",
+        "team1": {
+          "name": "Germany",
+          "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/255px-Flag_of_Germany.svg.png"
+        },
+        "team2": {
+          "name": "Costa Rica",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/255px-Flag_of_Costa_Rica.svg.png"
+        }
+    }
+   
+]
